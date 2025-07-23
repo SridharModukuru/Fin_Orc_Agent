@@ -1,3 +1,5 @@
 from graphs.evalulator import final_result
 
-print(final_result("what should i to be the number one."))
+query = str(input("enter your query"))
+
+print(final_result(query))
