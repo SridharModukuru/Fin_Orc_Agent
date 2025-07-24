@@ -6,6 +6,8 @@ Built with **modular ReAct agents**, the system optionally includes a **retrieve
 
 ---
 
+## Checkout graphs/orchestrator.py and graphs/evaluator.py for the structure and agents/ for tools implementation.
+
 ## 🚀 Key Features
 
 - **Agent Orchestration with LangGraph** – Enables structured and parallel agent workflows
